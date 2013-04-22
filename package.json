@@ -1,0 +1,22 @@
+{
+  "name": "replbuild",
+  "version": "0.0.1",
+  "description": "a repl to execute arbitrary bash commands on certain file changes",
+  "main": "watch.js",
+  "dependencies": {
+    "optimist": "~0.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/st-luke/replbuild.git"
+  },
+  "keywords": [
+    "repl",
+    "build",
+    "watch",
+    "files"
+  ],
+  "author": "Luke Arduini <luke.arduini@gmail.com>",
+  "license": "MIT"
+}
